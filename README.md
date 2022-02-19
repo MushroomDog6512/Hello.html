@@ -1,2 +1,3 @@
-Please Click "Code"
-Then Click Download .ZIP
+Go to the right
+look for the releases
+click on the green text
